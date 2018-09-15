@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source1.cpp">
+    <Text Include="makefile" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
