@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-	char s[128];
+	char s[128] = "nameless";
 	scanf("%s", s);
 	printf("Hello, %s\n", s);
 	return 0;
